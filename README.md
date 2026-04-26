@@ -28,7 +28,8 @@ El sistema utiliza una base de datos relacional robusta gestionada en **pgAdmin4
 
 ## 👥 Equipo de Trabajo
 * **Javier Libia** ([@JavierLibia](https://github.com/JavierLibia))
-* (Nombre de Compañero 1)
+
+* **Dulce Correa** 
 
 ## ⚙️ Configuración para Desarrolladores
 Como el servidor en la nube tiene disponibilidad limitada por créditos, se recomienda:
